@@ -1,6 +1,6 @@
 # 🚀 Email Automation Engine
 
-An enterprise-grade internal tool for automating B2B email infrastructure setup at scale. Built for WQ Revenue to streamline domain registration, email workspace provisioning, DNS configuration, and sequencing tool integration.
+An enterprise-grade internal tool for automating B2B email infrastructure setup at scale. Built for Greysolve Consulting to streamline domain registration, email workspace provisioning, DNS configuration, and sequencing tool integration.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -484,7 +484,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/your-org/email-automation-engine/issues)
 - **Documentation**: [Project Wiki](https://github.com/your-org/email-automation-engine/wiki)
-- **Email**: dev-team@wqrevenue.com
+- **Email**: info@greysolve.com
 
 ## 🙏 Acknowledgments
 
